@@ -1,0 +1,12 @@
+header.banner{
+    background-color: #0000009e !important;
+}
+
+a.banner{
+    color: white;   
+}
+
+li.list{
+    padding-bottom: 20px;
+    line-height: 4.2rem;
+}
