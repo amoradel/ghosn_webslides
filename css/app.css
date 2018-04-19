@@ -10,3 +10,10 @@ li.list{
     padding-bottom: 20px;
     line-height: 4.2rem;
 }
+
+div.title{
+    background-color: #0000009e;
+    /* border-radius: 17px; */
+    margin-left: 5%;
+    width: 55rem;
+}
